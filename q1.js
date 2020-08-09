@@ -98,10 +98,7 @@ function findCaliforniaCafes(cafename) {
     
             }
         }
-    }
-
-
-    
+    }   
     return ans
 }
 
